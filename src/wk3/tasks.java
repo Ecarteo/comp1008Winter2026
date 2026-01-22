@@ -1,4 +1,4 @@
-Tasks
+"""
 1) Create an EventTicketingSystem
     class EventTicketingSystem
     attributes
@@ -19,4 +19,8 @@ Tasks
         refundtickets(numberOfTickets)
             opposite of buytickets
         code getters and setters
+"""
 
+public class EventTicketingSystem {
+    
+}
