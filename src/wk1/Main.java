@@ -1,4 +1,5 @@
-import java.io.Console;
+package wk1;
+
 import java.util.Scanner;
 
 public class Main {

@@ -1,0 +1,30 @@
+Tasks
+
+Task 1
+Strong Password Checker
+-ask the user for a text
+-make sure there is at least
+    1 lowercase, uppercase letter
+    1 number
+    1 symbol
+
+How: use loop (enhanced for loop), track via counters the # of upper, lower, number, symbol
+
+Task 2
+Infinite Number Guessing Game
+Continually ask the user for a number between 1 and 10
+until the number successfully guesses 5
+
+Task 3
+Create a BankAccount class
+Attributes
+    account type: Checking or Savings
+    tracks number of deposits and withdrawals
+    balance amount that cannot be low zero dollars
+Actions
+    constructor: set account type and balance
+    withdraw(double amount) => balance cannot go below zero dollars. Increase number of withdrawals tracker
+    deposit(double amount) => increase number of deposits tracker
+    getBalance => return balance
+    getNumberDeposits
+    getNumberofWithdrawals

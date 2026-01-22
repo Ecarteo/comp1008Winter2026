@@ -1,3 +1,5 @@
+package wk1;
+
 import java.util.Scanner;
 
 public class MathOperationsWithUserInput {
