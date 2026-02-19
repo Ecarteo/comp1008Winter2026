@@ -1,0 +1,9 @@
+enum:
+    enumerable/enumerator
+        array of constant values
+        drop-down list of values
+
+Factory Methods
+    a category of that class
+    create a NEW INSTANCE OF THE OBJECT
+        with preset values
