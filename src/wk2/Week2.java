@@ -15,10 +15,10 @@ public class Week2 {
    static void usingCalculator(){
 
         //ask the user for a number
-       //ask the user for an operator
-       //ask the user for another number
-       //Call on Calculator class
-       //return the result of the calculation
+        //ask the user for an operator
+        //ask the user for another number
+        //Call on Calculator class
+        //return the result of the calculation
 
        System.out.println("Enter a number");
        String num1 = input.nextLine();
