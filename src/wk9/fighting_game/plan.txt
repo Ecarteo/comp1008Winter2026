@@ -1,0 +1,13 @@
+Fighting game
+    class
+    allow two Fighters to fight
+        a fighter has name, health, power
+        a fighter attacks
+        a fighter needs a way to determine if alive
+
+    Boss vs Player
+
+    Boss is harder to take down
+        it has 2 the health of opponent
+        a special move used only 1 that renders itself 3 times as powerful
+    A Player has the ability to Block an attack once

@@ -1,0 +1,9 @@
+Create a class named Student
+    -age, name, studentId
+    -greet(): output name only
+    -constructor: default + 3-args
+
+Create a class named WorkingStudent
+    -add String: job
+    -greet(): output name + job
+    -constructor: default + 4-args

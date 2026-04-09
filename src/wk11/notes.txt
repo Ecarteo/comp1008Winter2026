@@ -1,0 +1,50 @@
+Polymorphism
+    poly = multiple/many
+    morphism = bodies/forms
+
+Overloading: adding a variation (within a class)
+Override: change implementation (one class method is overridden in another class)
+
+Components:
+    An entity that is imported into a class
+
+    Added external to object or internally
+
+Concrete class: a class that CAN be instantiated
+
+Abstract class
+    a dedicated super class
+    can NOT be instantiated
+    used to group liked components
+    can have a method that is declared but has no default implementation
+    internal: can ignore this internal concept
+
+    Shape
+
+
+Interface
+    a list of requirements (actions)
+    can only have method declarations and constants
+
+Why would you create an interface when an abstract class is more dynamic
+
+1 class can extend only 1 other class. BUT 1 class can IMPLEMENT many interfaces
+
+
+**************************************************************
+
+
+School                              Abstract
+PostSecondarySchool                 Abstract
+Diploma                             Interface
+College                             Concrete
+
+abstract School
+
+abstract PostSecondarySchool extends abstract School
+
+Diploma Interface
+
+College extend PSS implements Diploma
+
+
